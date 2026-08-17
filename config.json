@@ -1,0 +1,7 @@
+{
+  "agent_name": "personal-work-agent",
+  "language": "zh-CN",
+  "timezone": "Asia/Beijing",
+  "reminder_enabled": true,
+  "archive_enabled": true
+}
